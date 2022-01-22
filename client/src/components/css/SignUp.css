@@ -1,0 +1,40 @@
+.wrap_sign_up{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.wrap_title h2 {
+  display: inline-block;
+  padding: 15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-decoration-line: underline;
+  text-decoration-color: #dd0045;
+}
+
+.sign_up_form {
+  position: absolute;
+  margin-top: 18%;
+  margin-left: 50%;
+  background-color: white;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  border: 2px solid #dd0045;
+  box-shadow: black 2px 2px 20px;
+  padding: 25px;
+  text-align: center;
+}
+
+.input-error {
+  border-color: red;
+}
+
+.error_elem_hide{
+  visibility: hidden;
+  max-height: 0;
+}
+
+.error_elem_show{
+  visibility: visible;
+}
+
+.signIn_link{
+  cursor: pointer;
+}

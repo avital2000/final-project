@@ -1,0 +1,14 @@
+.demo-app {
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.demo-app-calendar {
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+.calendar_title {
+  direction: rtl;
+  text-align: center;
+}
